@@ -1,4 +1,4 @@
-package main.java.programs.basic;
+package main.java.com.kgk.problemsolving;
 
 /**
  * Printing first 10 Fibonacci Series
